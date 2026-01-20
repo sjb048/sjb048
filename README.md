@@ -35,5 +35,4 @@ I'm a **Senior Software Engineer** specializing in scalable web platforms and da
 ### Connect With Me
 
 - Email: [brinti048@gmail.com](mailto:brinti048@gmail.com)  
-- GitHub: [github.com/sjb048](https://github.com/sjb048)  
 - LinkedIn: [linkedin.com/in/sumaia-jahan-brinti](https://linkedin.com/in/sumaia-jahan-brinti)
